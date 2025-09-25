@@ -44,7 +44,7 @@ b.  KCL:
 
 <img width="1501" height="820" alt="Screenshot 2025-09-25 085513" src="https://github.com/user-attachments/assets/2220a0d3-ecd2-4f08-a773-fece8a50ebd2" />
 
-# Tabulation & Calculation
+# TABULATION & CALCULATION
 ![1 beee](https://github.com/user-attachments/assets/6beb7b6b-6465-45aa-a39f-0e4167d0dc55)
 
 ![2 beee](https://github.com/user-attachments/assets/7f06b085-64aa-4671-9a9c-8a6990797acf)
